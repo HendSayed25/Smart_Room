@@ -14,28 +14,19 @@ It is a room built using Arduino and contains a set of
 
 # Hardware used: 
 1- Arduino nano
-
-2- 2 IR sensors
-
+2- 2 IR sensors=
 3- jumpers
-
 4- MQ-2 Gas sensor
-
 5- Buzzer
-
 6- tmp35 Temperature sensor
-
 7-2 Pushbuttons
-
 8- 2 LEDS
-
 9- potentiometer
-
 10- Resistors
 (4 of 220ohm,1 of 330ohm,3 of 1kohm)
-
 11- LCD 
 (Liquid-crystal display)
+
 # Hardware Connections 
 ![Screenshot (106)](https://github.com/HendSayed25/Smart_Room/assets/125665213/92983edf-08ed-4ce0-acb8-9fa8841dda15)
 
