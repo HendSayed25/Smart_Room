@@ -37,7 +37,7 @@ It is a room built using Arduino and contains a set of
 11- LCD 
 (Liquid-crystal display)
 # Hardware Connections 
-![Screenshot 2024-03-01 144028](https://github.com/mennahaleem401/Smart-Room-project/assets/120136580/27ed5505-2f1a-4082-a934-0ba03e743818)
+![Screenshot 2024-03-01 144028]
 
 
 # Code:
@@ -48,9 +48,9 @@ The first step is to write the LCD library, define the Arduino pins, and identif
 I have created some functions :
  1- Check the gas function :
 
-  We are using an MQ-2 Gas sensor to measure the gas in the room. The readings of the gas sensor are stored in a variable named read_gas. If the reading is greater than or equal to 150 degrees, the buzzer will receive a high-voltage signal, otherwise, it will receive a low-voltage signal.
+We are using an MQ-2 Gas sensor to measure the gas in the room. The readings of the gas sensor are stored in a variable named read_gas. If the reading is greater than or equal to 150 degrees, the buzzer will receive a high-voltage signal, otherwise, it will receive a low-voltage signal.
 
-  2- Check Temperature function:
+2- Check Temperature function:
   
 we are using a tmp35 sensor to measure the temperature in the room, store the reading of it, and make it from range 0…1023 to 0…5000 and check if this temperature is greater than or equal to 100 turn on the red LED else turns off.
 At the end of this function call the lcd_show() function to show this reading in it.
