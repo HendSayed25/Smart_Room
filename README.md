@@ -37,7 +37,8 @@ It is a room built using Arduino and contains a set of
 11- LCD 
 (Liquid-crystal display)
 # Hardware Connections 
-![Screenshot 2024-03-01 144028]
+![Screenshot (106)](https://github.com/HendSayed25/Smart_Room/assets/125665213/92983edf-08ed-4ce0-acb8-9fa8841dda15)
+
 
 
 # Code:
